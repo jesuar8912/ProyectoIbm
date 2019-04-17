@@ -1,0 +1,10 @@
+  applications:
+   - name: aplicacion-ibm-core
+     instances: 1
+     memory: 255MB
+     disk_quota: 814MB
+     random-route: true
+     path: target/ProyectoIbm-1.0-SNAPSHOT.war
+     
+     
+     
